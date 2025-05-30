@@ -20,7 +20,7 @@ This project uses a **Random Forest Classifier** to predict whether a loan appli
 - **Accuracy Achieved:** _Shown in the image below_
 
 ### 🔍 Terminal Output
-![Terminal Output](images/terminal_output.png)
+![Terminal Output](./Screenshot/terminal%20output.png)
 
 ---
 
@@ -53,8 +53,7 @@ This project uses a **Random Forest Classifier** to predict whether a loan appli
 ### 9. Loan Status Distribution
 ![Loan Status](./Screenshot/Figure_9.png)
 
-### 10. Terminal Output of Random Foresr Accuracy
-![RFA](./Screenshot/terminal%20output.png)
+
 
 ---
 
